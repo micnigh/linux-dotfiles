@@ -2,10 +2,7 @@ dotfiles (.bashrc, .bash_profile, etc) for linux
 
 # Requirements
 
-A Linux workstation bootstrap
-
  - [linux-workstation-bootstrap](https://github.com/micnigh/linux-workstation-bootstrap)
-
 
 # Quick start
 
