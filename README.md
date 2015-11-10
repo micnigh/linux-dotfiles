@@ -4,7 +4,7 @@ dotfiles (.bashrc, .bash_profile, etc) for linux
 
 A Linux workstation bootstrap
 
- - [linux-mint-17-2-cinnamon-workstation-bootstrap](https://github.com/micnigh/linux-mint-17-2-cinnamon-workstation-bootstrap)
+ - [linux-workstation-bootstrap](https://github.com/micnigh/linux-workstation-bootstrap)
 
 
 # Quick start
