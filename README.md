@@ -12,6 +12,9 @@ git init .
 git remote add origin https://github.com/micnigh/linux-dotfiles.git
 git fetch --all
 git reset --hard origin/master
+
+# add .dotfiles to .bashrc
+echo ". ~/dotfiles.sh" >> ~/.bashrc
 ```
 
 # Resources

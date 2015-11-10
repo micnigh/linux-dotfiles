@@ -2,8 +2,7 @@
 !/.dotfiles
 !/.gitattributes
 !/.gitignore
-!/.bashrc
-!/.bash_profile
 !/.dotfiles
+!/.dotfiles.sh
 !/README.md
 !/LICENSE
